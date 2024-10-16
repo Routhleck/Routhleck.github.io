@@ -1,6 +1,9 @@
 # 📖 Educations
-- *2024.09 - Present*, PhD, Peking University, Beijing.
+- *2024.09 - Present*, PhD student, Peking University, Beijing.
 - *2020.09 - 2024.06*, Undergraduate, Beijing Jiaotong University, Beijing.
+
+# 🎓 Event Attended
+- *2024.09.26 - 2024.09.29*, [The 17th annual meeting of the Chinese Society for Neuroscience, Suzhou](https://www.cns.org.cn/2024/index.html). As a poster presenter.
 
 # 💬 Invited Talks
 There's no talks so far...
